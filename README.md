@@ -44,7 +44,7 @@ I love building efficient, elegant, and high-performance applications. :D*
 - 📱 Mobile apps with **React Native, Kotlin, and Java**  
 - 🎮 Graphics programming with **Vulkan/OpenGL**  
 - 🖥 Low-level system tools in **C and x86 Assembly**  
-- 🤖 Machine learning experiments with **Python, TensorFlow, and PyTorch**
+- 🤖 Machine learning experiments with **Python, TensorFlow, and PyTorch** -- (Primarily Computer Vision tasks :D*)
 
 ---
 
