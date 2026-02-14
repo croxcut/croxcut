@@ -58,7 +58,3 @@ I love building efficient, elegant, and high-performance applications. :D*
 - GitHub: [github.com/croxcut](https://github.com/croxcut)  
 
 ---
-
-## ⚡ Fun Fact
-- I love exploring the **inner workings of computers** and **optimizing code** for performance.  
-- Big fan of **game engines, rendering pipelines, and low-level hacks**.  
