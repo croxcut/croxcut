@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jaype :D*
+# Hi there, I'm Jaype :D*
 
 I'm a passionate developer exploring **Web Development**, **Game Development**, **Low-Level Programming**, **Mobile Development**, and **Machine Learning**.  
 I love building efficient, elegant, and high-performance applications. :D*
