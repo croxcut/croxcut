@@ -41,7 +41,7 @@ $ cat jaype.json
     "Clean API architecture",
     "Computer Vision systems"
   ],
-  "fun_fact": "I debug in hex 🔍"
+  "fun_fact": "I'm Supposed to be on the Naval Branch of the Armed Forces :D*"
 }
 ```
 
