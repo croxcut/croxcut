@@ -11,7 +11,7 @@
 
 ### `Full-Stack • Systems • Graphics • ML`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+from+bare+metal+to+the+browser;Low-level+programmer+by+nature;High-level+thinker+by+necessity;I+read+assembly+for+fun+%F0%9F%98%88" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+from+bare+metal+to+the+browser;Low-level+programmer+by+nature;High-level+thinker+by+necessity;I+need+to+touch+grass+%F0%9F%98%88" alt="Typing SVG" />
 
 <br/>
 
