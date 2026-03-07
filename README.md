@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D9FF,50:7B2FBE,100:FF6B6B&height=200&section=header&text=JAYPE&fontSize=90&fontColor=ffffff&fontAlignY=55&animation=twinkling&desc=croxcut&descAlignY=75&descSize=20&descColor=00D9FF&stroke=00D9FF&strokeWidth=2" />
+
+</div>
+
+<div align="center">
+
 ```
      ██╗ █████╗ ██╗   ██╗██████╗ ███████╗
      ██║██╔══██╗╚██╗ ██╔╝██╔══██╗██╔════╝
@@ -11,7 +17,7 @@
 
 ### `Full-Stack • Systems • Graphics • ML`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+from+bare+metal+to+the+browser;Low-level+programmer+by+nature;High-level+thinker+by+necessity;I+need+to+touch+grass+%F0%9F%98%88" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+from+bare+metal+to+the+browser;Low-level+programmer+by+nature;High-level+thinker+by+necessity;Vulkan%3F+OpenGL%3F+Yes+please.;I+need+to+touch+grass+%F0%9F%98%88" alt="Typing SVG" />
 
 <br/>
 
@@ -60,6 +66,8 @@ $ cat jaype.json
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
 </details>
 
@@ -83,6 +91,7 @@ $ cat jaype.json
 ![SDL2](https://img.shields.io/badge/SDL2-0D1117?style=for-the-badge&logo=sdl&logoColor=1E90FF)
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00599C)
 ![x86 ASM](https://img.shields.io/badge/x86_Assembly-0D1117?style=for-the-badge&logo=assemblyscript&logoColor=6E5494)
+![GLSL](https://img.shields.io/badge/GLSL-0D1117?style=for-the-badge&logo=opengl&logoColor=00D9FF)
 
 </details>
 
@@ -93,7 +102,22 @@ $ cat jaype.json
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 ![Conda](https://img.shields.io/badge/Conda-0D1117?style=for-the-badge&logo=anaconda&logoColor=44A833)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
+
+</details>
+
+<details open>
+<summary><b>🛠 DevOps & Tools</b></summary>
+<br/>
+
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+![CMake](https://img.shields.io/badge/CMake-0D1117?style=for-the-badge&logo=cmake&logoColor=064F8C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 </details>
 
@@ -109,27 +133,45 @@ $ cat jaype.json
 
 </div>
 
----
-
 ## 🔬 Current Obsessions
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  🖼  Vulkan / OpenGL advanced render pipelines          │
-│  🏗  Backend architecture & clean API design            │
-│  👁  Computer Vision systems & real-time inference      │
-│  ⚡  Performance optimization at the systems level      │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   🖼  Vulkan / OpenGL — advanced render pipelines         ║
+║   🏗  Backend architecture & clean API design             ║
+║   👁  Computer Vision — real-time inference systems       ║
+║   ⚡  Performance optimization at the systems level       ║
+║   🔩  x86 Assembly — because I hate myself productively   ║
+║   🌊  Shader programming & GPU compute                    ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🌊 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=croxcut&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" />
+</div>
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+## 🌐 Ping Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnpaulvalenzuelaog@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/croxcut)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
 </div>
 
 ---
@@ -137,13 +179,13 @@ $ cat jaype.json
 <div align="center">
 
 ### `> I optimize for performance.`
-### `> Not for pretty UI.`
-### `> (If it looks good — it was accidental.) 😅`
+### `> Fuck pretty UI.`
+### `> (If it looks good, there is something wrong with both of us) 😅`
 
 <br/>
 
 **Thanks for scrolling this far. Go touch grass.** 🌿
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:7B2FBE,100:00D9FF&height=120&section=footer&reversal=false&animation=twinkling" />
 
 </div>
