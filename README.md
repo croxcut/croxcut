@@ -4,18 +4,6 @@
 
 </div>
 
-## 🇵🇭 Philippine GitHub Rankings
-
-<div align="center">
-
-[![committers.top badge](https://user-badge.committers.top/philippines/croxcut.svg)](https://user-badge.committers.top/philippines/croxcut)
-[![committers.top badge (dark)](https://user-badge.committers.top/philippines_public/croxcut.svg)](https://user-badge.committers.top/philippines_public/croxcut)
-
-> 🔥 Ranked among the **Top GitHub contributors in the Philippines**
-> tracked by [committers.top](https://committers.top/philippines) & [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/philippines.md)
-
-</div>
-
 <div align="center">
 
 ```
