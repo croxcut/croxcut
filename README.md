@@ -113,21 +113,6 @@
 
 </div>
 
-## 🔬 Current Obsessions
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   🖼  Vulkan / OpenGL — advanced render pipelines         ║
-║   🏗  Backend architecture & clean API design             ║
-║   👁  Computer Vision — real-time inference systems       ║
-║   ⚡  Performance optimization at the systems level       ║
-║   🔩  x86 Assembly — because I hate myself productively   ║
-║   🌊  Shader programming & GPU compute                    ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
 ---
 
 ## 📈 Contribution Activity
