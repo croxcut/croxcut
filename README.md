@@ -27,14 +27,6 @@
 
 </div>
 
----
-
-<img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=croxcut&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" />
-
-<br clear="right"/>
-
----
-
 ## ⚡ The Stack
 
 <details open>
