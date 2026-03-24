@@ -29,27 +29,7 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=croxcut&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" />
-
-## `whoami`
-
-```bash
-$ cat jaype.json
-```
-```json
-{
-  "name": "Jaype",
-  "role": "Full-Stack & Systems Developer",
-  "location": "PH 🇵🇭",
-  "philosophy": "Understand everything, abstract nothing",
-  "currently_obsessing_over": [
-    "Vulkan render pipelines",
-    "Clean API architecture",
-    "Computer Vision systems"
-  ],
-  "fun_fact": "I'm Supposed to be on the Naval Branch of the Armed Forces :D*"
-}
-```
+<img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=croxcut&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" />
 
 <br clear="right"/>
 
