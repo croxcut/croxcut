@@ -143,7 +143,6 @@
 
 <div align="center">
 
-### `> I optimize for performance.`
 ### `> Fuck pretty UI.`
 ### `> (If it looks good, there is something wrong with both of us) 😅`
 
