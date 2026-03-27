@@ -33,18 +33,9 @@
 
 <div align="center">
 
-<!-- GitHub Stats - Using most reliable endpoint -->
-<a href="https://github.com/croxcut">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=croxcut&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=croxcut&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
 
-<!-- Top Languages -->
-<a href="https://github.com/croxcut">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=croxcut&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
-</a>
-
-<!-- Streak Stats - More reliable variant -->
-<img src="https://streak-stats.demolab.com?user=croxcut&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=croxcut&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
 </div>
 
@@ -53,23 +44,17 @@
 ## Contribution Activity
 
 <div align="center">
-
-<!-- Activity Graph with fallback theme -->
-<a href="https://github.com/croxcut">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=croxcut&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=croxcut&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" />
 </div>
 
-<!-- Note: Pacman graph removed due to reliability issues -->
-<!-- If you want to re-enable it, use: -->
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/croxcut/croxcut/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/croxcut/croxcut/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/croxcut/croxcut/output/pacman-contribution-graph.svg">
-</picture> -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/croxcut/croxcut/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/croxcut/croxcut/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/croxcut/croxcut/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
----
 
 ## The Stack
 
