@@ -59,7 +59,7 @@
 ## The Stack
 
 <details open>
-<summary><b>🌍 Web Development</b></summary>
+<summary><b>Web Development</b></summary>
 <br/>
 
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
