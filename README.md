@@ -83,7 +83,7 @@
 </details>
 
 <details open>
-<summary><b>🎮 Graphics & Systems</b></summary>
+<summary><b>Graphics & Systems</b></summary>
 <br/>
 
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
