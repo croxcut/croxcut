@@ -110,7 +110,7 @@
 </details>
 
 <details open>
-<summary><b>🛠 DevOps & Tools</b></summary>
+<summary><b>DevOps & Tools</b></summary>
 <br/>
 
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
