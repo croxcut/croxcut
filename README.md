@@ -73,7 +73,7 @@
 </details>
 
 <details open>
-<summary><b>📱 Mobile Development</b></summary>
+<summary><b>Mobile Development</b></summary>
 <br/>
 
 ![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
