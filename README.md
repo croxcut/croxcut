@@ -97,7 +97,7 @@
 </details>
 
 <details open>
-<summary><b>🤖 Machine Learning & Data</b></summary>
+<summary><b>Machine Learning & Data</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
