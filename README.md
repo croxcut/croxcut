@@ -138,8 +138,6 @@
 
 <br/>
 
-**Thanks for scrolling this far. Go touch grass.** 🌿
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:7B2FBE,100:00D9FF&height=120&section=footer&reversal=false&animation=twinkling" />
 
 </div>
