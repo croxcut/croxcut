@@ -134,9 +134,6 @@
 <div align="center">
 
 ### `> Fuck pretty UI.`
-### `> (If it looks good, there is something wrong with both of us) 😅`
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:7B2FBE,100:00D9FF&height=120&section=footer&reversal=false&animation=twinkling" />
 
