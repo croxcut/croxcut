@@ -45,22 +45,6 @@
   </picture>
 </div>
 
-
-## The Stack
-
-<details open>
-<summary><b>DevOps & Tools</b></summary>
-<br/>
-
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
-![CMake](https://img.shields.io/badge/CMake-0D1117?style=for-the-badge&logo=cmake&logoColor=064F8C)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
-</details>
-
 ## Ping Me
 
 <div align="center">
