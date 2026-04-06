@@ -49,19 +49,6 @@
 ## The Stack
 
 <details open>
-<summary><b>Machine Learning & Data</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![Conda](https://img.shields.io/badge/Conda-0D1117?style=for-the-badge&logo=anaconda&logoColor=44A833)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
-
-</details>
-
-<details open>
 <summary><b>DevOps & Tools</b></summary>
 <br/>
 
