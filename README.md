@@ -49,16 +49,6 @@
 ## The Stack
 
 <details open>
-<summary><b>Mobile Development</b></summary>
-<br/>
-
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-
-</details>
-
-<details open>
 <summary><b>Graphics & Systems</b></summary>
 <br/>
 
