@@ -49,20 +49,6 @@
 ## The Stack
 
 <details open>
-<summary><b>Graphics & Systems</b></summary>
-<br/>
-
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Vulkan](https://img.shields.io/badge/Vulkan-0D1117?style=for-the-badge&logo=vulkan&logoColor=AC162C)
-![OpenGL](https://img.shields.io/badge/OpenGL-0D1117?style=for-the-badge&logo=opengl&logoColor=5586A4)
-![SDL2](https://img.shields.io/badge/SDL2-0D1117?style=for-the-badge&logo=sdl&logoColor=1E90FF)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00599C)
-![x86 ASM](https://img.shields.io/badge/x86_Assembly-0D1117?style=for-the-badge&logo=assemblyscript&logoColor=6E5494)
-![GLSL](https://img.shields.io/badge/GLSL-0D1117?style=for-the-badge&logo=opengl&logoColor=00D9FF)
-
-</details>
-
-<details open>
 <summary><b>Machine Learning & Data</b></summary>
 <br/>
 
