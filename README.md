@@ -49,20 +49,6 @@
 ## The Stack
 
 <details open>
-<summary><b>Web Development</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-
-</details>
-
-<details open>
 <summary><b>Mobile Development</b></summary>
 <br/>
 
