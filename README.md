@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 ## GitHub at a Glance
 
 <div align="center">
@@ -28,8 +26,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=croxcut&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
 </div>
-
----
 
 ## Contribution Activity
 
