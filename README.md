@@ -29,9 +29,11 @@
 
 
 <div align="center">
-  ## Contribution Activity
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=croxcut&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" />
+## Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=croxcut&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" />
+
 </div>
 
 <div align="center">
