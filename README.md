@@ -13,6 +13,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/croxcut-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/croxcut)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=croxcut&style=flat-square&color=00D9FF&label=PROFILE+VIEWS)](https://github.com/croxcut)
 
 </div>
