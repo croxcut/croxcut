@@ -22,7 +22,6 @@
   
 ## GitHub at a Glance
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=croxcut&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=croxcut&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
 </div>
