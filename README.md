@@ -30,6 +30,7 @@
   
 ## Contribution Activity
 
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=croxcut&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/> -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=croxcut&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" />
 
 </div>
